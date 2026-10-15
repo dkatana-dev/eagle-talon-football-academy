@@ -21,7 +21,7 @@ Technologies Used
 
 Live Website
 
-"Visit Eagle Talon Football Academy" (https://crdaddy.github.io/eagle-talon-football-academy/)
+"Visit Eagle Talon Football Academy" (https://github.com/dkatana-dev/eagle-talon-football-academy)
 
 Repository
 

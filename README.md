@@ -1,32 +1,28 @@
-Eagle Talon Football Academy ⚽
+Eagle Talon Football Academy
 
-An official website for Eagle Talon Football Academy.
-
-About the Project
-
-This website provides information about Eagle Talon Football Academy and presents the academy online.
-
-Features
-
-- Responsive website design
-- Football academy information
-- Images and visual content
-- Interactive elements using JavaScript
-
-Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
+Official website for Eagle Talon Football Academy.
 
 Live Website
 
-"Visit Eagle Talon Football Academy" (https://github.com/dkatana-dev/eagle-talon-football-academy)
+https://dkatana-dev.github.io/eagle-talon-football-academy/
 
-Repository
+Features
 
-The source code for this project is available in this GitHub repository.
+- Responsive website
+- Football academy information
+- Images and styling
+- Interactive features
+
+Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+GitHub Repository
+
+https://github.com/dkatana-dev/eagle-talon-football-academy
 
 Developer
 
-Created by Crdaddy.
+David Katana — "GitHub Profile" (https://github.com/dkatana-dev)
